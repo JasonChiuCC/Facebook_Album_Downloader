@@ -1,5 +1,4 @@
 __pycache__
-*.png
 *.idea
 *.pyc
 ghostdriver.log
