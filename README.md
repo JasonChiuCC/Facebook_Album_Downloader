@@ -2,13 +2,14 @@
 
 ## Install
 
-*Python Version = `3.5.2`
+● Python Version = `3.5.2`
 
-*pip install `selenium`
+● pip install `selenium`
 
-*Install `PhantomJS`
+● Install `PhantomJS`
 
 ## Setting
+
 ```
 // setting.py
 # Facebook setting
