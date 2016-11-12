@@ -2,15 +2,15 @@
 
 ## Install
 
-1.python version = 3.5.2
+*Python Version = `3.5.2`
 
-2.pip install selenium
+*pip install `selenium`
 
-3.install PhantomJS
+*Install `PhantomJS`
 
 ## Setting
 ```
-setting.py
+// setting.py
 # Facebook setting
 Email               = 'YourFacebookAccount'        # Change your account
 Password            = 'YourFacebookPassword'       # Change your password
